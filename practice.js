@@ -1,4 +1,4 @@
-
+"use strict"
 console.log(peopleInSpace)
 
 const numberOfAstrosInSpace = (data) => {
